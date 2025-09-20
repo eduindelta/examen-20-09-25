@@ -1,0 +1,8 @@
+.tarjeta {
+    background-color: blue;
+    box-shadow: inset;
+}
+.imagen {
+    width: 300px;
+    height: auto;
+}
